@@ -24,19 +24,14 @@ Bu proje, kullanıcıların haftalık alışkanlıklarını planlamasını ve ta
 
 ## 🛠️ Kullanılan Teknolojiler & Kütüphaneler
 
-- **React Native**
 - **Firebase Realtime Database**
 - **Firebase Auth** 
 - **React Navigation**
 - **React Native Modal**
-- **UUID** (benzersiz ID üretimi için)
-- **UUID** (benzersiz ID üretimi için)
-- **`formik` | Form yönetimini kolaylaştırmak için kullanılır**
-**`react-native-vector-icons`** | Uygulamada ikon (icon) kullanımı için
-
+- **`Formik` | Form yönetimini kolaylaştırmak için kullanılır**
 - **React Native Vector Icons -> Uygulamada ikon (icon) kullanımı için popüler ve çok geniş bir ikon kütüphanesidir |**
-- **react-native-flash-message` | Uygulama içi bilgi, uyarı, hata mesajlarını göstermek için kullanılır. |**
-- **Custom Modal ve FloatingButton bileşenleri**
+- **React Native Flash Message` | Uygulama içi bilgi, uyarı, hata mesajlarını göstermek için kullanılır. |**
+- **Component ve Hook yapısı**
 
 ---
 
