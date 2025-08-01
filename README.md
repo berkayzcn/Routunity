@@ -1,4 +1,4 @@
-# Routunity
+# Routinity
 Kullanıcının günlük alışkanlıklarını planlayıp takip etmesini sağlayan mobil uygulama
 
 # 🧠 Habit Tracker App
@@ -9,13 +9,16 @@ Bu proje, kullanıcıların haftalık alışkanlıklarını planlamasını ve ta
 
 ## 📱 Uygulama Özellikleri
 
-- Haftalık alışkanlık ekleme (gün seçimi ile)
-- Günlük olarak filtrelenen görev listesi
-- Tamamlanan alışkanlıkların işaretlenmesi ve ayrı listelenmesi
-- Gerçek zamanlı veri senkronizasyonu (Firebase `on` listener kullanımı)
-- Alışkanlık düzenleme (edit) özelliği
+
+- ✅ Alışkanlık ekleme 
+- 📅 Haftanın günlerine göre alışkanlık atama
+- 🔄 Gerçek zamanlı veri güncellemesi (Firebase Realtime Database)
+- 🟩 Bugünkü alışkanlıkları gösterme
+- ✏️ Alışkanlık düzenleme (Modal içinde)
+- ✔️ Tamamlanan alışkanlıkları işaretleme ve ayrı listede gösterme
+- 🌗 Tüm özellikler aynı ekranda bölümlendirilerek yerleştirilmiştir
 - Gün isimleri üstte yatay scroll ile gösterilir, bugünkü gün vurgulu renktedir
-- Geçiş efektleri ve sade kullanıcı arayüzü
+
 
 ---
 
@@ -23,10 +26,16 @@ Bu proje, kullanıcıların haftalık alışkanlıklarını planlamasını ve ta
 
 - **React Native**
 - **Firebase Realtime Database**
+- **Firebase Auth** 
 - **React Navigation**
 - **React Native Modal**
 - **UUID** (benzersiz ID üretimi için)
-- **Animated API** (geçiş efektleri için)
+- **UUID** (benzersiz ID üretimi için)
+- **`formik` | Form yönetimini kolaylaştırmak için kullanılır**
+**`react-native-vector-icons`** | Uygulamada ikon (icon) kullanımı için
+
+- **React Native Vector Icons -> Uygulamada ikon (icon) kullanımı için popüler ve çok geniş bir ikon kütüphanesidir |**
+- **react-native-flash-message` | Uygulama içi bilgi, uyarı, hata mesajlarını göstermek için kullanılır. |**
 - **Custom Modal ve FloatingButton bileşenleri**
 
 ---
