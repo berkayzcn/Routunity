@@ -31,7 +31,10 @@ Bu proje, kullanıcıların haftalık alışkanlıklarını planlamasını ve ta
 
 ---
 
-![Ana Sayfa Görseli](./src/Assets/ss1.png)
+![Ana Sayfa ](./src/Assets/ss1.png)
+![Giriş Sayfası ](./src/Assets/ss2.png)
+![Habits Sayfası](./src/Assets/ss3.png)
+![Habit Eklema](./src/Assets/ss4.png)
 
 
 
