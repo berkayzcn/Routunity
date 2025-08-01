@@ -31,7 +31,7 @@ Bu proje, kullanıcıların haftalık alışkanlıklarını planlamasını ve ta
 
 ---
 
-![Ana Sayfa Görseli](Assets/ss1.png)
+![Ana Sayfa Görseli](./src/Assets/ss1.png)
 
 
 
